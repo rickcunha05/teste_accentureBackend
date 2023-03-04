@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CrudAspAccenture.props" />
+</Project>
